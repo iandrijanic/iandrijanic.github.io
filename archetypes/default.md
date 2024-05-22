@@ -6,4 +6,9 @@ tags = ["", "", "", "", "", ""]
 author = 'Darko Gojković'
 # ShowToc = "true"
 # TocOpen = "true"
+# [cover]
+# image = ""
+# alt = ""
+# caption = ""
+# relative = false
 +++

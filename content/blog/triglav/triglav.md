@@ -1,10 +1,16 @@
 +++
-title = 'Planina Triglav'
+title = 'Triglav'
 date = 2024-05-22T13:20:24+02:00
 draft = false
 tags = ["planinarenje", "ekspedicija", "tim"] 
 author = 'Darko Gojković'
 ShowToc = "true"
+[cover]
+image = "/blog/triglav/slike/triglav.jpg"
+alt = "Triglav"
+caption = ""
+relative = false
+
 # TocOpen = "false"
 +++
 
@@ -15,8 +21,6 @@ ShowToc = "true"
 ## Uvod
 
 Triglav je najviši vrh Slovenije, s nadmorskom visinom od 2864 metra. Planiranje uspona na Triglav zahtijeva dobru pripremu i poznavanje rute. Ovaj post će vam pružiti sve potrebne informacije za uspješan i siguran uspon.
-
-![Triglav](/blog/triglav/slike/triglav.jpg)
 
 ## Priprema
 
