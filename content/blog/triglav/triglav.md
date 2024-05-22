@@ -16,7 +16,7 @@ ShowToc = "true"
 
 Triglav je najviši vrh Slovenije, s nadmorskom visinom od 2864 metra. Planiranje uspona na Triglav zahtijeva dobru pripremu i poznavanje rute. Ovaj post će vam pružiti sve potrebne informacije za uspješan i siguran uspon.
 
-![Triglav](/blog/test/slike/triglav.jpg)
+![Triglav](/blog/triglav/slike/triglav.jpg)
 
 ## Priprema
 
@@ -74,7 +74,7 @@ Polazimo iz **Aljaževog doma** u dolini Vrata. Ovo je popularna početna točka
   - **Vrijeme:** 2-3 sata
   - **Opis:** Najzahtjevniji dio rute, uključuje feratu i tehničke dijelove.
 
-![Kredarica](/blog/test/slike/kredarica.jpg)
+![Kredarica](/blog/triglav/slike/kredarica.jpg)
 
 ### Povratak
 
@@ -95,6 +95,6 @@ Za više informacija, posjetite [službenu stranicu Triglavskog nacionalnog park
 
 ---
 
-![Pogled s vrha Triglava](/blog/test/slike/pogled-triglav.jpg)
+![Pogled s vrha Triglava](/blog/triglav/slike/pogled-triglav.jpg)
 
 
