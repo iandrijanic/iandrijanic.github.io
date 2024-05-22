@@ -1,4 +1,4 @@
-baseURL: https://iandrijanic.github.io/
+baseURL: https://darkogojkovic.site/
 languageCode: HR-hr
 title: Darko Gojković
 theme: ["PaperMod"]
@@ -32,7 +32,7 @@ menu:
 params:
   mainSections:
     - blog
-    - docs
+    - posts
   hideFooter: true
   defaultTheme: light
   ShowReadingTime: true
@@ -57,12 +57,7 @@ params:
     - name: "facebook"
       url: "https://www.facebook.com/darko.gojkovic.100"
     - name: "email"
-      url: "mailto:darko.gojkovic@gmail.com"  
-cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
-
+      url: "mailto:darko.gojkovic100@gmail.com"  
 outputs:
   home:
     - HTML

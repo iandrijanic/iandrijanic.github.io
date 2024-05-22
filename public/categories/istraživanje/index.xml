@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Istraživanje on Darko Gojković</title>
+    <link>http://localhost:1313/categories/istra%C5%BEivanje/</link>
+    <description>Recent content in Istraživanje on Darko Gojković</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>HR-hr</language>
+    <lastBuildDate>Wed, 22 May 2024 23:55:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/istra%C5%BEivanje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Wed, 22 May 2024 23:55:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
