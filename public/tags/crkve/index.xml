@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crkve on Darko Gojković</title>
+    <link>http://localhost:1313/tags/crkve/</link>
+    <description>Recent content in Crkve on Darko Gojković</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>HR-hr</language>
+    <lastBuildDate>Wed, 22 May 2024 02:07:40 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/crkve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Povratak Ishodištu</title>
+      <link>http://localhost:1313/blog/povratak-ishodistu/povratak-ishodistu/</link>
+      <pubDate>Wed, 22 May 2024 02:07:40 +0200</pubDate>
+      <guid>http://localhost:1313/blog/povratak-ishodistu/povratak-ishodistu/</guid>
+      <description>Iako je to u stvarnom životu nemoguće, pod naslovom prvenstveno podrazumijevam razumijevanje i bilježenje tog iskona. Radi se o historiji srpskog naroda na Kordunu od vremena njegovog dolaska na ove prostore pa sve do danas.
+Dosta je bilo očekivanja od nekog drugog, iako je plaćen za taj posao, da meni predoči prošlost mog naroda. Danas mi je potpuno jasno kako dolazi do zaborava i to ću pokušati na nekoliko primjera objasniti.</description>
+    </item>
+    <item>
+      <title>Jasenak, Gorski Kotar</title>
+      <link>http://localhost:1313/blog/jasenak-gorski-kotar/jasenak-gorski-kotar/</link>
+      <pubDate>Sun, 25 Feb 2024 02:25:07 +0200</pubDate>
+      <guid>http://localhost:1313/blog/jasenak-gorski-kotar/jasenak-gorski-kotar/</guid>
+      <description>Kome je ovo stanje na čast? ne pitajte me ništa.</description>
+    </item>
+  </channel>
+</rss>

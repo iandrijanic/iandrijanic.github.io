@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Darko Gojković</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Darko Gojković</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>HR-hr</language>
+    <lastBuildDate>Wed, 22 May 2024 13:20:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ekspedicija</title>
+      <link>http://localhost:1313/tags/ekspedicija/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ekspedicija/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planinarenje</title>
+      <link>http://localhost:1313/tags/planinarenje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/planinarenje/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tim</title>
+      <link>http://localhost:1313/tags/tim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crkve</title>
+      <link>http://localhost:1313/tags/crkve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/crkve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groblja</title>
+      <link>http://localhost:1313/tags/groblja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/groblja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Povijest</title>
+      <link>http://localhost:1313/tags/povijest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/povijest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zaboravljena Povijest</title>
+      <link>http://localhost:1313/tags/zaboravljena-povijest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zaboravljena-povijest/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

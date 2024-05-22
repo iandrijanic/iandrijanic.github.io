@@ -1,0 +1,70 @@
+baseURL: https://iandrijanic.github.io/
+languageCode: HR-hr
+title: Darko Gojković
+theme: ["PaperMod"]
+
+
+
+menu:
+    main:
+
+      - name: blog
+        identifier: blog
+        url: /blog
+        weight: 1
+
+      - name: arhiva
+        identifier: archives
+        url: /archives
+        weight: 5
+
+      - name: pretraživanje
+        identifier: search
+        url: /search
+        weight: 0
+
+      - name: tags
+        identifier: tags
+        url: /tags/
+        weight: 20
+
+
+params:
+  mainSections:
+    - blog
+    - docs
+  hideFooter: true
+  defaultTheme: light
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: true
+  # showtoc: true
+  # tocopen: false
+  homeInfoParams:
+    Title: Ja sam Darko. 
+    Content: Dobrodošli na mrežnu stranicu gdje objavljujem zaključke svojih istraživanja, povijest koju ne smijemo zaboraviti, fotografije i zanimljive bilješke sa raznih putovanja, hikinga, trekinga..
+  socialIcons: 
+    - name: "facebook"
+      url: "https://www.facebook.com/darko.gojkovic.100"
+    - name: "email"
+      url: "mailto:darko.gojkovic@gmail.com"  
+cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
