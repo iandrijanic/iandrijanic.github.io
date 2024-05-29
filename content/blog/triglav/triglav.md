@@ -1,7 +1,7 @@
 +++
 title = 'Triglav'
 date = 2024-05-22T13:20:24+02:00
-draft = false
+draft = true
 tags = ["planinarenje", "ekspedicija", "tim"] 
 author = 'Darko Gojković'
 ShowToc = "true"
