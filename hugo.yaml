@@ -57,7 +57,7 @@ params:
     - name: "facebook"
       url: "https://www.facebook.com/darko.gojkovic.100"
     - name: "email"
-      url: "mailto:darko.gojkovic100@gmail.com"  
+      url: "mailto:gojkovicdarko67@gmail.com"
 outputs:
   home:
     - HTML
